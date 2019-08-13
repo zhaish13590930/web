@@ -8,3 +8,5 @@ webbase
   alter database webbase character set utf-8;
   ALTER DATABASE `webbase` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
   ALTER TABLE `member` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+2.git learn git
