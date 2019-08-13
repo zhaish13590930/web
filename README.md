@@ -10,3 +10,6 @@ webbase
   ALTER TABLE `member` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 2.git learn git
+	git add : add file to stash
+	git commit : move stash files to master line
+        git push : push master files to other machine or github server
